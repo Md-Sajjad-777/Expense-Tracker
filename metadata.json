@@ -1,0 +1,6 @@
+{
+  "name": "Expense & Sales Manager",
+  "description": "An administrative desktop ERP simulator for managing customers, products, sales orders, business expenses, and real-time financial reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
